@@ -1,10 +1,6 @@
 /*
     Name: Saeed Soukiah
     Date: 24/12/2024
-    Retro Snake Game using Raylib
-    This C++ program implements a classic snake game using the Raylib library. 
-    It features:
-    snake movement, food generation, collision detection, and speed control to increase difficulty over time.
 */
 
 #include <iostream>
